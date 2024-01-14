@@ -1,0 +1,1 @@
+Artículo 5°.- Vencido el plazo de las suspensiones dispuestas, el Juez interviniente intimará al obligado para que se indique el plazo de cumplimiento. Si no lo indicare o éste fuera irrazonable conforme a la naturaleza del crédito y a las demás circunstancias de la causa, el plazo será fijado por el Juez.

@@ -1,0 +1,1 @@
+Artículo 16°.- Las disposiciones de la presente ley son de orden público y regirán por el plazo establecido en el artículo 2°, con excepción de lo establecido en los artículos 10° y 11°; que su vigencia no se limitara por plazo alguno.

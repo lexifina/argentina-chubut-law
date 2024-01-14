@@ -1,0 +1,1 @@
+Artículo 15°.- Declárase la esencialidad de los servicios alimentarios y comedores escolares de gestión estatal, a fin de asegurar una nutrición adecuada y saludable de los alumnos que concurren a los mismo, resultando obligatorio el funcionamiento de los mismos.
