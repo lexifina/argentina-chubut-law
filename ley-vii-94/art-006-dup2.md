@@ -1,0 +1,1 @@
+Artículo 6°.- Facúltese al Poder Ejecutivo, por medio del Ministerio que determine la reglamentación, para establecer regímenes generales o especiales, para relevar, verificar, controlar y determinar el monto de las acreencias y deudas del sector privado con el “Estado Provincial”, generadas con anterioridad a la entrada en vigencia de esta ley.

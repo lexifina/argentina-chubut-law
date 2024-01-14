@@ -1,0 +1,1 @@
+Artículo 12°.-Facultase al Gobernador a disponer las reestructuraciones presupuestarias que considere necesarias dentro del total aprobado por cada ley de presupuesto, quedando comprendidas las modificaciones que involucren a gastos corrientes, gastos de capital, aplicaciones financieras y distribución de finalidades por el plazo establecido en el artículo 2° de la presente ley.

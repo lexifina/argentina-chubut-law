@@ -1,0 +1,1 @@
+Artículo 10°.- Suspéndase los ingresos al estado provincial bajo cualquier modalidad de vínculo jurídico, a excepción de la cobertura de los cargos vacantes que cuenten con partida presupuestaria aprobada para tal fin y obre debidamente la fundamentación por acto administrativo por parte de cada titular del Poder correspondiente.
