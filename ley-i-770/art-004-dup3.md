@@ -1,0 +1,32 @@
+Artículo 4°.- Sustitúyase el artículo 21° de la Ley I N°764, el que quedará redactado de la siguiente manera:
+“Artículo 21.- Compete al Secretario de Infraestructura, Energía y Planificación asistir al señor Gobernador de la Provincia en todo lo inherente a la fijación de la política vinculada a la infraestructura provincial, a la proyección, contratación y ejecución de obras públicas y a la planificación de políticas de desarrollo general, en la fiscalización de los servicios públicos, sean prestados por la Provincia o concesionados y, en particular, entender en:
+La política de desconcentración y descentralización de obras y servicios a cargo del Estado Provincial;
+La formulación de planes y proyectos de obras de arquitectura y su contratación y/o ejecución por los entes de su dependencia;
+La organización y reglamentación del Registro de Constructores de obra pública y de los sistemas de reajuste de costos y redeterminación de precios;
+La fijación de políticas y supervisión de gestión en la Administración de Vialidad Provincial;
+La formulación de políticas orientadas a facilitar a la población el acceso a los servicios de energía eléctrica, gas, comunicaciones, agua potable y desagües cloacales en conjunto con el Ministerio de Energía e Hidrocarburos en el ámbito de su específica competencia;
+La coordinación con entes nacionales y privados para un adecuado desarrollo de las materias inherentes al área;
+La programación y ejecución de obras hídricas y de proyectos de provisión de agua potable y en el fomento de cooperativas para la prestación de los servicios sanitarios, en coordinación con el Instituto Provincial del Agua, en caso de corresponder.
+Las funciones que competan a la Provincia en materia de regulación de servicios públicos que no posean leyes de regulación específicas, excluido el transporte aéreo, marítimo y terrestre;
+La reglamentación del ejercicio de las profesiones vinculadas a los ramos de su competencia;
+La planificación y ejecución coordinada con otros entes y áreas de las políticas de desarrollo general de la Provincia;
+Promover y orientar proyectos de planificación efectuados por entidades públicas o privadas en el ámbito provincial;
+La fijación de políticas y supervisión de gestión del Instituto Provincial de la Vivienda y Desarrollo Urbano;
+La determinación de las inversiones en el sector vial y aeroportuario, en la planificación de la infraestructura, supervisión, control de proyectos y de obras;
+La determinación de las inversiones en el sector portuario, incluyendo la jurisdicción marítima y costera lindante de las radas externas de los puertos provinciales, en la planificación de la infraestructura, la ejecución, fiscalización, supervisión, certificación, control de proyectos y de obras;
+La administración y disposición del Fondo de Desarrollo Portuario de acuerdo a lo establecido en la Ley IV N°6;
+La fijación de políticas y supervisión de gestión de la Administración Provincial De Servicios Públicos (APSP) de la Ley I N°265;
+La administración y fijación de las políticas, a través de los representantes provinciales, en las sociedades en las que el estado conforma el paquete accionario de manera minoritaria en las empresas de energía eléctrica;
+La planificación y desarrollo de obras de generación, transformación y distribución de energía eléctrica, coordinando su acción con los organismos nacionales, provinciales y municipales de competencia;
+La fijación de las tarifas del servicio de energía eléctrica, agua potable y desagües cloacales en las que el estado es responsable de la distribución de tales servicios;
+La coordinación con entes nacionales y privados para un adecuado desarrollo de las materias inherentes al área;
+La formulación de políticas orientadas a facilitar a la población el acceso a los servicios de energía eléctrica y gas, en conjunto con la Secretaría de Infraestructura y Planificación en el ámbito de su específica competencia;
+La ejecución del programa de generación, distribución y comercialización de energía eléctrica;
+El régimen de concesión, fijación y compensación de tarifas.
+La fijación de políticas y supervisión de gestión del Instituto Provincial del Agua, en lo relativo a obras hídricas. Que permita la defensa y preservación del recurso, evitando su desperdicio y contaminación.
+La fijación de políticas y supervisión de gestión de la Administración Provincial de Vialidad. Que permita la integración territorial y promueva la igualdad de oportunidades de desarrollo humano y de las economías regionales, a través de la planificación, proyección, construcción y conservación de rutas, caminos, puentes y obras de infraestructura de alcance provincial.
+El estudio y desarrollo para el aprovechamiento de fuentes no convencionales de energía;
+Ejercer la representación de la Provincia ante organismos públicos o privados con competencia en la planificación, explotación y/o aplicación de los recursos energéticos renovables y no renovables;
+Ejercer en coordinación con otros organismos con competencia en la materia, la autoridad de contralor en las explotaciones electro energéticas;
+Todo lo relativo a los proyectos, programas y acciones relacionados con el uso y aprovechamientos de los recursos hídricos propios y compartidos, asumiendo la relación con los organismos inter jurisdiccionales competentes;
+La exploración, desarrollo y aplicación de energías alternativas.”.
