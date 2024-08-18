@@ -1,0 +1,1 @@
+Aprobación en todos sus Términos del Convenio suscripto la Provincia del Chubut y el Consejo Federal de Inversiones mediante el cual la Provincia Adhiere al «Programa para el Desarrollo Productivo y Financiero de Mujeres», celebrado el 28 de Mayo de 2024, Protocolizado al Tomo 2 Folio 190.
