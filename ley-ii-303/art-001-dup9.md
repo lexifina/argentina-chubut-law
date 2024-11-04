@@ -1,0 +1,1 @@
+Artículo 1º. Autorízase a la Administración de Vialidad Provincial a realizar las operaciones de leasing que resulten necesarias, por un monto de hasta PESOS DOS MIL DOSCIENTOS MILLONES ($2.200.000.000) o su equivalente en otras monedas a la fecha de la sanción de la presente ley.
