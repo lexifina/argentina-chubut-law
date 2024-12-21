@@ -1,0 +1,1 @@
+Artículo 66.- Emisión de sufragio. Los fiscales de mesa y generales podrán votar únicamente en la mesa receptora de votos en cuya lista de electores figuren inscriptos, no pudiendo ser agregados al padrón de ninguna mesa en ningún supuesto.

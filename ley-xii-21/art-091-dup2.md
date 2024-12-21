@@ -1,0 +1,1 @@
+Artículo 91.- Obligatoriedad del debate. Establécese la obligatoriedad de la realización de un debate preelectoral público y obligatorio entre los candidatos a Gobernador de la Provincia del Chubut, con la finalidad de dar a conocer y debatir ante el electorado sus propuestas electorales y su posición sobre temas de interés público.

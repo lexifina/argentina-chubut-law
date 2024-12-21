@@ -1,0 +1,1 @@
+Artículo 3°.- División territorial. A los fines electorales, la Provincia es un distrito único y se divide en secciones y circuitos. Podrán adoptarse las divisiones territoriales utilizadas en los comicios nacionales.

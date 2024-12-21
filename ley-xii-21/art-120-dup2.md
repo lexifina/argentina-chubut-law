@@ -1,0 +1,1 @@
+Artículo 120.- Registro de Delegados Electorales. Créase en el ámbito de la Secretaría Electoral Permanente el Registro de Delegados Electorales en el que serán incluidos todos aquellos ciudadanos que, reuniendo los requisitos exigidos por el presente Código, estén en condiciones de desempeñar dicha función en cualquier acto electoral provincial.

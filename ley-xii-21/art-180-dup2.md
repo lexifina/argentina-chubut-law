@@ -1,0 +1,1 @@
+Artículo 180.- Realización de espectáculos públicos. El que realice espectáculos al aire libre o en recintos cerrados, acontecimientos sociales, culturales, deportivos, y toda otra clase de reuniones públicas que no estuviesen previamente autorizadas, en infracción a lo dispuesto por el artículo 85 del presente Código, será sancionado con multa equivalente a ochenta (80) JUS.

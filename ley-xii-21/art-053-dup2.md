@@ -1,0 +1,1 @@
+Artículo 53.- Aprobación de diseño de la visualización de la oferta electoral. Oídos los apoderados e introducidos los cambios pertinentes, la Secretaría Electoral Permanente aprobará mediante resolución fundada el diseño de la visualización de la oferta electoral dentro de las veinticuatro (24) horas siguientes a la celebración de la audiencia.

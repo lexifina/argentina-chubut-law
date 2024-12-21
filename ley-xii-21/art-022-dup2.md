@@ -1,0 +1,1 @@
+Artículo 22.- Condición previa. Dentro de los diez (10) días siguientes a su nombramiento y antes de tomar posesión del cargo, el Secretario/a Electoral Permanente debe cesar en toda situación de incompatibilidad que pudiere afectarlo presumiéndose, en caso contrario, que no acepta el nombramiento.

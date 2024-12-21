@@ -1,0 +1,1 @@
+Artículo 103.- Máxima autoridad. Cada mesa electoral tendrá como máxima autoridad un funcionario que actuará con el título de presidente. Se designará también un vicepresidente que auxiliará al presidente y lo reemplazará en los casos que este Código determina.

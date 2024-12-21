@@ -1,0 +1,1 @@
+Artículo 45.- Boleta Única de Sufragio en papel (BUS). Adóptase para los procesos electorales de autoridades electivas regidas por este Código el sistema de Boleta Única de Sufragio (BUS) en papel, de acuerdo con las normas y especificaciones que se establecen en el presente Código.

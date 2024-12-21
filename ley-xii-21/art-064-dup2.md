@@ -1,0 +1,1 @@
+Artículo 64.- Misión de los fiscales. Los fiscales tendrán la misión de verificar la identidad de los electores, controlar la calificación de los sufragios durante el escrutinio de mesa, verificar la confección de las actas y otra documentación y formalizar los reclamos que estimen correspondientes.

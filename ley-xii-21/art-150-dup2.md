@@ -1,0 +1,2 @@
+Artículo 150.- Cierre de la urna y remisión del material. El cierre de la urna se deberá realizar colocando una faja especial que tape su boca o ranura, cubriendo totalmente la tapa, frente y parte posterior. La faja será firmada por las autoridades de mesa y los fiscales que lo deseen.
+Seguidamente, las autoridades de mesa harán entrega inmediata de la urna y del sobre especial indicado en el artículo 148 de este Código, en forma personal, al empleado del correo designado, quien extenderá el recibo correspondiente con indicación de la hora.

@@ -1,0 +1,2 @@
+Artículo 56.- Cantidad. La Secretaría Electoral Permanente mandará a imprimir las BUS en una cantidad igual al número de electores registrados en el padrón electoral, con un cinco por ciento (5%) adicional para atender situaciones en que por cualquier evento o situación de fuerza mayor fuese necesario reponer boletas por roturas o pérdidas.
+En cada mesa electoral debe haber igual número de BUS que de electores habilitados, cifra a la que se le adicionará el porcentaje establecido en el párrafo anterior para reposición.

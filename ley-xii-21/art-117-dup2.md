@@ -1,0 +1,3 @@
+Artículo 117.- Excusación y justificación. La función para la que es designado es una carga pública, de la que sólo podrá excusarse por las causas y a través del procedimiento establecido en el presente Código.
+La excusación de quienes resulten designados como delegados electorales se deberá formular dentro de los tres (3) días de recibida la notificación ante la Secretaría Electoral Permanente. Únicamente podrán invocarse razones de enfermedad o de fuerza mayor debidamente justificadas, o estar incurso en algunas de las causales de inhabilitación previstas en el presente Código.
+Transcurrido dicho plazo, sólo podrán excusarse por causas sobrevinientes, las que serán objeto de consideración especial.

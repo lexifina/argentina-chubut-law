@@ -1,0 +1,1 @@
+Artículo 70.- Fiscales de escrutinio. Presencian, en representación de la agrupación política, las operaciones del escrutinio definitivo que se encuentran a cargo del Tribunal Electoral y examinan la documentación correspondiente.

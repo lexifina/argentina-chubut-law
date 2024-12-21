@@ -1,0 +1,2 @@
+Artículo 152.- Recuento provisional de resultados. La Secretaría Electoral Permanente arbitrará los medios para la recepción, carga, procesamiento, totalización y difusión de los resultados consignados en los telegramas de resultados.
+Asimismo, dispondrá medidas para la difusión de la totalización de resultados electorales en forma permanente e ininterrumpida a partir de la emisión oficial del primer resultado, en forma directa por internet, poniendo a disposición de los medios de comunicación y de las agrupaciones políticas el acceso directo a resultados en tiempo real.

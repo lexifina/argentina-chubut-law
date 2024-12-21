@@ -1,0 +1,1 @@
+Artículo 46.- Confección. Oficializadas las listas de candidatos, la Secretaría Electoral Permanente confeccionará un modelo de BUS cuyo diseño y características deberán respetar las especificaciones establecidas en los artículos siguientes.

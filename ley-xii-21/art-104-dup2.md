@@ -1,0 +1,1 @@
+Artículo 104.- Independencia. Las autoridades de las mesas receptoras de votos se desempeñarán con absoluta independencia de toda autoridad y no obedecerán orden alguna que interfiera con el ejercicio de sus funciones.

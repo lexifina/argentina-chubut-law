@@ -1,0 +1,1 @@
+Artículo 182.- Difusión de encuestas. El que publicitare o difundiere el resultado de encuestas o sondeos de opinión en boca de urna, en infracción a lo dispuesto por el artículo 100 de este Código, siempre que el hecho no importe una falta o delito conminado con sanción mayor, será sancionado con una multa equivalente a veinte (20) JUS.

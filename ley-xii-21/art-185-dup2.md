@@ -1,0 +1,1 @@
+Artículo 185.- Sanciones mínimas. El que cometiere cualquiera de las infracciones previstas en el presente Código y que no tuviere una sanción específica, será sancionada con multa equivalente a un (1) JUS.

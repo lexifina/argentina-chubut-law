@@ -1,0 +1,1 @@
+Artículo 199.- Sujetos. Las organizaciones nacionales e internacionales que cumplan con los requisitos establecidos en el presente Título podrán inscribirse como Organizaciones Observadoras en aquellas instancias y procesos electorales regidos por el presente Código.

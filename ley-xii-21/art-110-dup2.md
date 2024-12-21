@@ -1,0 +1,1 @@
+Artículo 110.- Definición. La Secretaría Electoral Permanente designará para los centros de votación un funcionario que, con el nombre de delegado electoral, actuará como nexo entre la misma y las autoridades de mesa.

@@ -1,0 +1,1 @@
+Artículo 140.- Interrupción de las elecciones. El acto comicial no podrá ser interrumpido. En caso de interrupción por fuerza mayor se dejará constancia en acta, expresando el tiempo que haya durado la paralización y sus motivos. El delegado electoral suscribirá el acta juntamente con las autoridades de mesa y los fiscales que deseen hacerlo.

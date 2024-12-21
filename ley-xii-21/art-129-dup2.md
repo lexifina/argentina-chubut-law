@@ -1,0 +1,2 @@
+Artículo 129.- Discrepancia de datos. Cuando por error de impresión en el padrón el nombre del elector no coincida exactamente con el documento, las autoridades de la mesa admitirán su voto, siempre que coincidan los demás datos. En tal caso, se dejará consignada tal circunstancia en la columna de observaciones del padrón.
+Tampoco se impedirá la emisión del sufragio cuando el nombre figure con exactitud y la discrepancia verse acerca de algún o algunos datos relativos al documento habilitante, tales como el domicilio o el género de la persona empadronada.

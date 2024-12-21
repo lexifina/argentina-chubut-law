@@ -1,0 +1,6 @@
+Artículo 135.- Procedimiento en caso de impugnación. En caso de impugnación, el presidente y/o vicepresidente de la mesa lo hará constar anotando el nombre, apellido, número y tipo de documento de identidad y clase, tomando la impresión del dígito pulgar del elector impugnado en el formulario respectivo. Dicho formulario será firmado por quien ejerza la presidencia de la mesa y por el o los fiscales impugnantes.
+Si alguno de ellos se niega a firmar, quien ejerce la presidencia de la mesa lo hará constar pudiendo hacerlo bajo la firma de algún elector presente.
+La negativa del o de los fiscales impugnantes a suscribir el formulario importa el desistimiento y anulación de la impugnación, bastando que uno solo firme para que subsista.
+El presidente de mesa entregará al elector la BUS para que proceda a la votación. Una vez que el elector vuelve a la mesa, le dará un sobre para que coloque la BUS y lo cierre.
+Posteriormente, se colocará el formulario de impugnación y el sobre con la boleta en otro sobre que se entregará abierto al ciudadano para que verifique su contenido y lo cierre.
+El elector colocará en la urna el mencionado sobre cerrado, el cual contendrá el sobre con la BUS y el formulario de impugnación. Si retirase el formulario del sobre ello constituirá prueba suficiente de la verdad de la impugnación.

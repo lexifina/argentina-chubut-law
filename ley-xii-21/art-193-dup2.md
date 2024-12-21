@@ -1,0 +1,2 @@
+Artículo 193.- Resolución. La resolución del Tribunal Electoral contendrá la identificación del acusado, la descripción de la conducta lesiva, la valoración de la prueba producida, sus fundamentos en derecho e individualizará la sanción, si correspondiere.
+La resolución adoptada se comunicará al infractor por notificación electrónica. En caso de que no hubiera constituido domicilio en los términos del artículo 190 de este Código, se publicará en el Boletín Oficial.

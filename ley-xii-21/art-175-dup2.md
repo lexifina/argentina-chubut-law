@@ -1,0 +1,1 @@
+Artículo 175.- No concurrencia de autoridades de mesa. La persona designada como autoridad de mesa que, injustificadamente o con justificativo falso, no concurriera a desempeñar dicha función, o hiciera abandono de ella, incurrirá en falta grave y será sancionada con una multa equivalente a tres (3) JUS.

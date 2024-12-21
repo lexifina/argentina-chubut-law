@@ -1,0 +1,3 @@
+Artículo 113.- Comunicación. La designación de cada delegado electoral se hará de forma fehaciente por los medios que la Secretaría Electoral Permanente considerare apropiados, y será llevada a cabo con una antelación no menor a treinta (30) días respecto de la fecha prevista para los comicios.
+La nómina de delegados electorales por cada circuito electoral será puesta a disposición de las agrupaciones políticas que participan del acto eleccionario.
+En todos los casos deben cumplir con la capacitación brindada por la Secretaría Electoral Permanente, ya sea de modo presencial o virtual, a efectos de propender a un mejor desarrollo de los comicios.

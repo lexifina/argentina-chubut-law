@@ -1,0 +1,1 @@
+Artículo 128.- Procedimiento de identificación. Al presentarse en la mesa el elector entregará el documento nacional de identidad al presidente de mesa a los efectos de su identificación, el que lo retendrá hasta que el elector proceda a sufragar y firme el padrón en el espacio correspondiente.

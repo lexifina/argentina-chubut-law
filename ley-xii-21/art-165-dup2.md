@@ -1,0 +1,1 @@
+Artículo 165.- Procedimiento ante votos recurridos. El Tribunal Electoral examinará aquellos votos que se remitan recurridos, determinando su validez o nulidad en función de la decisión adoptada por el presidente de la mesa y los fundamentos de los fiscales recurrentes que consten en la documentación remitida.

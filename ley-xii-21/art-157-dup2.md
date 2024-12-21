@@ -1,0 +1,1 @@
+Artículo 157.- Apoderados partidarios. Las agrupaciones políticas que participan en la elección, a través de sus apoderados y auxiliares que estos designen, podrán verificar las operaciones del escrutinio realizadas por el Tribunal Electoral y acceder a la documentación correspondiente.

@@ -1,0 +1,1 @@
+Artículo 133.- Derecho a interrogar al elector. El presidente y/o el vicepresidente de la mesa, por iniciativa propia o a pedido de los fiscales de las agrupaciones políticas, tendrá derecho a interrogar al elector sobre las diversas referencias y anotaciones del documento de identidad.

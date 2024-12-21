@@ -1,0 +1,2 @@
+Artículo 111.- Designación. Los delegados electorales serán designados preferentemente, en primer término, entre los inscriptos en el Registro de Delegados Electorales Voluntarios, en su defecto, entre el cuerpo de directivos docentes de la Provincia o, en tercer lugar, funcionarios del Poder Judicial que cumplan los requisitos exigidos por este Código.
+En el caso de los directivos docentes se les otorgará puntaje.

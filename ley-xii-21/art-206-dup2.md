@@ -1,0 +1,2 @@
+Artículo 206.- Informe de Observación Electoral. Cada organización acreditada deberá presentar un Informe Final de Observación en un plazo de treinta (30) días hábiles de finalizada la elección.
+El Informe de Observación contendrá los comentarios y conclusiones a los que se arribará con motivo de la tarea de observación desarrollada, así como las recomendaciones que se estimaran pertinentes, tendientes a mejorar el desarrollo presente o futuro de los procesos electorales.

@@ -1,0 +1,1 @@
+Artículo 119.- Registro Voluntario de Autoridades de Mesa. Créase en el ámbito de la Secretaría Electoral Permanente el Registro Voluntario de Autoridades de Mesa en el que podrán inscribirse todos aquellos ciudadanos que, reuniendo los requisitos exigidos por el presente Código, deseen ejercer dicha función en cualquier acto electoral provincial.

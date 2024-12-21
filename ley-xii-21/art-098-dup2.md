@@ -1,0 +1,2 @@
+Artículo 98.- Abuso de autoridad. Ninguna autoridad provincial, municipal o comunal podrá encabezar grupos de personas durante la elección ni hacer valer la influencia de sus cargos para coartar la libertad de sufragio, ni tampoco hacer reuniones con el propósito de influir en forma alguna en los actos electorales.
+Sólo el personal de las fuerzas policiales, Fuerzas Armadas y de seguridad afectadas a la seguridad de los comicios podrá asistir al acto electoral portando sus armas reglamentarias.

@@ -1,0 +1,1 @@
+Artículo 127.- Voto de los electores. Los electores únicamente podrán sufragar en aquella mesa receptora de votos en cuyo padrón figuren asentados y con el documento de identidad habilitante, no pudiendo agregarse a ese padrón ninguna persona.

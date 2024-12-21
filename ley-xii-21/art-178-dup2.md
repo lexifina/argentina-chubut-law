@@ -1,0 +1,1 @@
+Artículo 178.- Aplicación de las multas. Será causa suficiente para la aplicación de las multas previstas en los artículos 174, 175 y 176 del presente Código, la constatación objetiva de la omisión no justificada.

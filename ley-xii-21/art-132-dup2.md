@@ -1,0 +1,1 @@
+Artículo 132.- Verificación de la identidad del elector. Una vez que el presidente compruebe que el documento habilitante pertenece al mismo ciudadano registrado en el padrón, podrá verificar la identidad del compareciente con las indicaciones respectivas de dicho documento.

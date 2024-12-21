@@ -1,0 +1,4 @@
+Artículo 48.- Elecciones municipales. Cuando se lleven a cabo elecciones municipales o de comunas rurales en forma simultánea con la provincial, a la BUS se le agregarán, de arriba a abajo, las siguientes filas:
+La primera, con el apellido y nombre completos y fotografía color del candidato a Intendente y, en su caso Viceintendente, en los municipios; y de Presidente y Vicepresidente en las comunas rurales, y un casillero en blanco para que el elector marque con una cruz, tilde o símbolo similar la opción de voto;
+la segunda, con el apellido y nombre completos de los candidatos a Concejales titulares y suplentes, la fotografía a color del primer titular de la lista, y un casillero en blanco para que el elector marque con una cruz, tilde o símbolo similar la opción de voto.
+Para los municipios con Carta Orgánica Municipal que debieran elegir otras categorías, la Secretaría Electoral Permanente efectuará las adiciones pertinentes.

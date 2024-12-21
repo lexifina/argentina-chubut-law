@@ -1,0 +1,1 @@
+Artículo 156.- Plazos. A partir de la recepción de la documentación, el Tribunal Electoral procederá a efectuar con celeridad y sin interrupciones las operaciones indicadas en el presente Código. A tal fin, todos los plazos se computarán en días corridos.

@@ -1,0 +1,2 @@
+Artículo 184.- Actos de campaña electoral. La agrupación política que realice actividades entendidas como actos de campaña electoral fuera del plazo establecido en el artículo 85 del presente Código, será sancionada con una multa equivalente a cien (100) JUS.
+La persona humana que realizare actividades entendidas como actos de campaña electoral fuera del período establecido por el presente Código, será sancionada de una multa equivalente a cincuenta (50) JUS.

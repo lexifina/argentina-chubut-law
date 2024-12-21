@@ -1,0 +1,1 @@
+Artículo 39.- Identificaciones biométricas. La Secretaría Electoral Permanente podrá incorporar mecanismos de identificación biométrica de electores y soluciones tecnológicas para la autenticación de la identidad de los electores.
