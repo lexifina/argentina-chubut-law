@@ -1,0 +1,3 @@
+Artículo 195.- Ejecución de sentencia pecuniaria. La sentencia constituye título suficiente para su ejecución por la Fiscalía de Estado, que procederá de inmediato. En la ejecución son válidos los domicilios ya constituidos en la etapa anterior. Sólo se admite la excepción de pago documentado total.
+Junto a la notificación de la sentencia, se intimará al deudor al pago y a que acompañe dentro de los cinco (5) días hábiles constancia del pago efectuado.
+La ejecución de este título, y aquellas medidas cautelares cuya aplicación fuera necesaria, se regirán por las disposiciones del Código Procesal Civil y Comercial de la Provincia del Chubut.

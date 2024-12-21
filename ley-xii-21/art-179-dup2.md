@@ -1,0 +1,1 @@
+Artículo 179.- Pago de la multa. La reglamentación establecerá los lugares y medios de pago habilitados para abonar las multas previstas en este Código. El pago de la multa se acreditará mediante una constancia expedida por la Secretaría Electoral Permanente. Cumplida la sanción, la persona será excluida del Registro de Infractores previsto en el artículo 18 del presente Código.

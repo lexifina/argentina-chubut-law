@@ -1,0 +1,1 @@
+Artículo 194.- Apelación. La sentencia será recurrible ante el Superior Tribunal de Justicia de la Provincia del Chubut en pleno, en los términos del artículo 19 inciso g), de la ley V N°174. La apelación se concederá en relación y al solo efecto devolutivo.

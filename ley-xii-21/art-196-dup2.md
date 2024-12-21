@@ -1,0 +1,4 @@
+Artículo 196.- Deducción de aportes públicos. Aquellas multas impuestas a agrupaciones políticas mediante sentencia firme, que no fueran abonadas en el plazo de intimación al pago del artículo 195 de este Código, se deducirán de los aportes públicos.
+A esos fines, las resoluciones adoptadas por el Tribunal Electoral serán comunicadas al órgano competente del Poder Ejecutivo para que las considere al momento de la distribución de fondos.
+Las sanciones previstas en este Título serán aplicables a las agrupaciones políticas y en los casos de alianzas o confederaciones, se hará extensivo a cada uno de los partidos políticos que las integran, conforme a lo establecido en la Ley Orgánica de Partidos Políticos.
+Las agrupaciones políticas quedarán exceptuadas de las sanciones siempre que aleguen en su descargo los elementos suficientes que demuestren que ese incumplimiento no les es imputable.

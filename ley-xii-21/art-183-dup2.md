@@ -1,0 +1,1 @@
+Artículo 183.- Publicidad de actos de gobierno. Los funcionarios públicos que autorizaren o consintieran la publicidad de actos de gobierno en violación de la prohibición establecida en el artículo 86 de este Código, serán sancionados con una multa equivalente a cincuenta (50) JUS.

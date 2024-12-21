@@ -1,0 +1,2 @@
+Artículo 30.- Responsabilidades. Es obligación del Secretario/a Electoral Permanente atender los actos propios de su función dentro de los términos legales y conforme a derecho, con adecuada fundamentación lógica y legal.
+El incumplimiento de las obligaciones establecidas en este artículo se considera falta grave a los fines de la destitución, conforme a los procedimientos dispuestos por esta ley.

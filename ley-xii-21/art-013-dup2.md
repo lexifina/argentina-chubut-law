@@ -1,0 +1,1 @@
+Artículo 13.- Personas privadas de su libertad. Las personas incluidas en el padrón electoral que se encuentren privadas de su libertad en territorio provincial y no se encuentren inhabilitadas para emitir el sufragio en los términos del presente Código, podrán emitir su voto únicamente en las categorías de Gobernador y Vicegobernador y Diputados Provinciales.

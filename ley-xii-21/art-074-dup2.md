@@ -1,0 +1,1 @@
+Artículo 74.- Candidatos no afiliados. Las agrupaciones políticas podrán presentar candidaturas de personas no afiliadas siempre que esta posibilidad esté expresamente establecida en su Carta Orgánica o reglamento interno en el caso de alianzas.

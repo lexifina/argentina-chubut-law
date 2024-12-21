@@ -1,0 +1,1 @@
+Artículo 192.- Remisión de actuaciones. Una vez que se hubiera producido toda la prueba ofrecida por el infractor y aquella que se hubiera dispuesto de oficio, la causa estará en condiciones de ser resuelta. El Tribunal Electoral deberá dictar resolución o resolver el archivo.

@@ -1,0 +1,1 @@
+Artículo 164. - Recuento de sufragios por errores u omisiones en la documentación. En caso de evidentes errores de hecho sobre los resultados del escrutinio consignados en la documentación de la mesa, el Tribunal Electoral podrá no anular el acto comicial, procediéndose a realizar íntegramente el escrutinio de las BUS remitidas por las autoridades de mesa.

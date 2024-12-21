@@ -1,0 +1,1 @@
+Artículo 23.- Procedimiento de designación. La designación en el cargo la realizará la Legislatura Provincial con el voto de los dos tercios del total de sus miembros, a propuesta del Poder Ejecutivo.

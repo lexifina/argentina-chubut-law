@@ -1,0 +1,1 @@
+Artículo 5°.- Agrupaciones políticas. A los efectos del presente Código se entiende por “agrupaciones políticas” a todos los partidos políticos con personería jurídico - política, a las confederaciones provinciales legalmente reconocidas y vigentes, y a las alianzas electorales constituidas para participar en un proceso electoral.

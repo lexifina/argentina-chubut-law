@@ -1,0 +1,1 @@
+Artículo 130.- Admisibilidad del voto. Sólo será admitido el voto a un elector cuando exhiba un documento de identidad vigente que figure en el padrón electoral o posterior, pudiéndose presentar su versión digital mediante aplicación oficial habilitada a los efectos.

@@ -1,0 +1,1 @@
+Artículo 155.-Recepción de la documentación. El Tribunal Electoral recibirá la documentación entregada por el servicio de correo y procederá a depositarla en lugar público y visible. Permitirá la fiscalización por las agrupaciones políticas.

@@ -1,0 +1,1 @@
+Artículo 174.- No emisión del voto. El elector que no emita su voto y no se justifique ante la Secretaría Electoral Permanente por alguna de las causas mencionadas en el artículo 14 del presente Código, será sancionado con multa equivalente a medio (0,50) JUS.

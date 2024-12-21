@@ -1,0 +1,1 @@
+Artículo 176.- No concurrencia del delegado electoral. La persona designada como delegado electoral que, injustificadamente o con justificativo falso, no concurriera a desempeñar dicha función o hiciera abandono de ella, incurrirá en falta grave y será sancionada con una multa equivalente a seis (6) JUS.

@@ -1,0 +1,1 @@
+Artículo 65.- Requisitos para ser fiscal. Los fiscales de mesa y fiscales generales de las agrupaciones políticas deberán saber leer y escribir, estar debidamente capacitados para ejercer la función y ser electores de la provincia.

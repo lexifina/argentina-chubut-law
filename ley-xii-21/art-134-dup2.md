@@ -1,0 +1,2 @@
+Artículo 134.- Impugnación de la identidad del elector. El presidente, el vicepresidente de la mesa y/o los fiscales de las agrupaciones políticas tendrán derecho a impugnar el voto del elector cuando a su juicio hubiera falseado su identidad.
+En tal caso, se deberá dejar constancia del motivo concreto de la impugnación en acta firmada por las autoridades de mesa y el o los impugnantes, dejando consignada tal circunstancia en la columna de observaciones del padrón.

@@ -1,0 +1,2 @@
+Artículo 1°.- Ámbito de aplicación. Se establece por el presente Código el régimen electoral que regirá las elecciones de la Provincia del Chubut, de los municipios sin Carta Orgánica, de las comunas rurales, y de los municipios con Carta Orgánica que adhieran o adopten esta ley.
+Quedan sujetas a las disposiciones de esta ley las elecciones vinculadas al ejercicio de mecanismos de democracia semidirecta.

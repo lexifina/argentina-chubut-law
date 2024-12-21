@@ -1,0 +1,1 @@
+Artículo 24.- Duración. La duración del mandato del titular de la Secretaría Electoral Permanente es de seis (6) años, pudiendo ser reelegido por una sola vez según el procedimiento establecido en este artículo.

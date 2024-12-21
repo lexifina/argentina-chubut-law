@@ -1,0 +1,1 @@
+Artículo 11.- Licencia. Los electores que por razones laborales deban estar ocupados durante el transcurso del acto electoral tendrán derecho a obtener una licencia especial de parte de sus empleadores con el objeto exclusivo de concurrir a emitir el voto o desempeñar funciones en los comicios, sin deducción alguna de salario ni ulterior recargo o compensación de horario.

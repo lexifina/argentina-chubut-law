@@ -1,0 +1,1 @@
+Artículo 94.- Fecha y lugar del debate. El debate público obligatorio deberá llevarse a cabo dentro de los veinte (20) días y hasta los siete (7) días previos a la celebración de los comicios. Se desarrollará en una localidad seleccionada por la Secretaría Electoral Permanente con más de dos mil (2.000) electores.

@@ -1,0 +1,2 @@
+Artículo 168.- Protestas contra el escrutinio. Concluido el procedimiento de escrutinio final, el Tribunal Electoral recibirá, si las hubiera, protestas de las agrupaciones políticas. Después de resueltas las que se presentaren, el Tribunal Electoral emitirá un dictamen sobre las causas que a su juicio funden la validez o la nulidad de la elección.
+La resolución será recurrible ante el Superior Tribunal de Justicia de la Provincia del Chubut en pleno, en los términos del artículo 19 inciso, de la ley V Nº174. La apelación se concederá en relación y al solo efecto devolutivo.

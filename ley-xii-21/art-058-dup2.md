@@ -1,0 +1,2 @@
+Artículo 58.- Fecha de los comicios. La convocatoria a elecciones de cargos provinciales será efectuada por el Poder Ejecutivo Provincial, debiendo fijar la fecha del acto electoral con no menos de cincuenta (50) días previos al vencimiento de los mandatos a renovar.
+Lo dispuesto no afecta la potestad de disponer la simultaneidad con las elecciones nacionales de conformidad con lo previsto por el artículo 256 inciso 4) de la Constitución Provincial.

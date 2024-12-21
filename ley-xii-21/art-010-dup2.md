@@ -1,0 +1,1 @@
+Artículo 10.- Facilitación de la emisión del voto. Ninguna autoridad obstaculizará la actividad de las agrupaciones políticas en lo que concierne a la instalación y funcionamiento de locales, suministro de información a los electores y facilitación de la emisión regular del voto, siempre que no contraríen las disposiciones de este Código.

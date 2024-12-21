@@ -1,0 +1,1 @@
+Artículo 112.- Lugar de votación. Cada delegado electoral deberá ser designado para cumplir sus funciones preferentemente en el establecimiento en que funcione la mesa en la que deba sufragar, y como mínimo dentro del circuito en el que se halle empadronado.

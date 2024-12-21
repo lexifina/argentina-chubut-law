@@ -1,0 +1,2 @@
+Artículo 123.- Constitución de las mesas. El día de los comicios las autoridades de mesa, el delegado electoral, el empleado de correos con los documentos y útiles mencionados en el Capítulo IV del Título III y el personal de seguridad que deba estar a las órdenes de las autoridades de los comicios, deberán encontrarse a las 07:30 horas en el recinto electoral asignado para el desempeño de sus funciones.
+Si a las 08:30 horas no se hubieren presentado las autoridades de la mesa, el delegado electoral procederá según lo regulado en el artículo 115 inciso f) de este Código.

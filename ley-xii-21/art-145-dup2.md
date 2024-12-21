@@ -1,0 +1,2 @@
+Artículo 145.- Certificados de escrutinio. Con los resultados consignados en el acta de escrutinio, las autoridades de mesa extenderán sendos certificados de escrutinio que deberán ser suscriptos por las autoridades de mesa y los fiscales partidarios, en formulario remitido al efecto, del cual podrán recibir copia los fiscales y/o apoderados que lo soliciten. Un ejemplar adicional se destinará a ser colocado dentro de la urna.
+Si algún fiscal se negare a suscribir los certificados de escrutinio, se hará constar en los mismos tal circunstancia.

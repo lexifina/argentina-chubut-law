@@ -1,0 +1,1 @@
+Artículo 67.- Atribuciones y deberes. Los fiscales deberán respetar y cumplir las órdenes de las autoridades de mesa encuadradas en el ejercicio regular de sus funciones y no tendrán otra misión que la que este Código determina.

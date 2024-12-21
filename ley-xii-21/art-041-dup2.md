@@ -1,0 +1,4 @@
+Artículo 41.- Padrón complementario del personal de las fuerzas de seguridad. Veinte (20) días antes de cada elección, los jefes de las fuerzas de seguridad comunicarán a la Secretaría Electoral Permanente la nómina de agentes que formarán parte de las fuerzas de seguridad afectadas a los comicios, así como también la información relativa a los establecimientos de votación en los que desempeñarán sus funciones.
+La Secretaría Electoral Permanente incorporará al personal afectado al padrón complementario de una de las mesas de votación del establecimiento en que se encontraran prestando servicios, siempre que en función del domicilio registrado en el padrón electoral le corresponda votar por todas las categorías en el mismo circuito.
+CAPITULO III
+DIVISIONES TERRITORIALES Y AGRUPACIÓN DE ELECTORES

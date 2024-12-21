@@ -1,0 +1,1 @@
+Artículo 181.- Exhibición de distintivos y propaganda política. El que exhiba banderas o divisas y otros distintivos partidarios, o efectúe públicamente cualquier propaganda política en infracción a lo dispuesto por este Código, siempre que el hecho no importe una falta o delito conminado con sanción mayor, será sancionado con una multa equivalente a dos (2) JUS.

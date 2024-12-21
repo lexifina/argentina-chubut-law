@@ -1,0 +1,1 @@
+Artículo 62.- Apoderados de los partidos políticos. Las agrupaciones políticas que presenten candidaturas deberán designar como mínimo un (1) apoderado general y un (1) suplente, que actuará únicamente en caso de ausencia o impedimento justificado del titular. Dichos apoderados serán los representantes de las agrupaciones políticas a todos los fines establecidos por este Código.
