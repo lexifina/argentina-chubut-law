@@ -1,0 +1,8 @@
+L E Y I Nº_ 835______
+LA LEGISLATURA DE LA PROVINCIA DEL CHUBUT
+SANCIONA CON FUERZA DE
+L E Y
+TITULO I
+Disposiciones Iniciales
+Capítulo I
+Objeto
