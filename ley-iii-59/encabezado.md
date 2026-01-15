@@ -1,0 +1,6 @@
+L E Y III Nº _59___
+LA LEGISLATURA DE LA PROVINCIA DEL CHUBUT
+SANCIONA CON FUERZA DE
+L E Y
+Capítulo I
+Disposiciones Generales
