@@ -1,0 +1,6 @@
+L E Y III Nº_ 58___
+LA LEGISLATURA DE LA PROVINCIA DEL CHUBUT
+SANCIONA CON FUERZA DE
+L E Y
+Capítulo I
+Objeto, Fines y Principios
