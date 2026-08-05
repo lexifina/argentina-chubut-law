@@ -1,0 +1,6 @@
+L E Y XXIV Nº___123____ .
+LA LEGISLATURA DE LA PROVINCIA DEL CHUBUT
+SANCIONA CON FUERZA DE
+L E Y
+Capítulo I
+Disposiciones Generales
