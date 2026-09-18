@@ -1,0 +1,2 @@
+Artículo 1º. Sustitúyese el artículo 32 de la Ley X N° 15, el que quedará redactado de la siguiente manera:
+“Artículo 32. Firme la resolución sancionatoria, la falta de pago de la multa impuesta autoriza a la Agencia de Recaudación de la Provincia del Chubut (ARECH) a perseguir el cobro mediante la vía de apremio según lo establecido en el Código Fiscal vigente. Asimismo, la Secretaría de Trabajo podrá disponer la clausura del establecimiento hasta el cumplimiento de la sanción, manteniéndose entre tanto el derecho de los trabajadores al cobro íntegro de sus remuneraciones.”
