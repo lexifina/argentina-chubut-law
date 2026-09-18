@@ -1,0 +1,2 @@
+Artículo 4º. Sustitúyese el artículo 42 de la Ley X N° 15, el que quedará redactado de la siguiente manera:
+“Artículo 42. La falta de pago en término de la obligación estatuida por la presente, hará incurrir en mora a los responsables sin necesidad de interpelación alguna, devengándose automáticamente un recargo del DIEZ POR CIENTO (10 %) de la deuda durante los TREINTA (30) días corridos posteriores al vencimiento. Pasado dicho plazo, el capital y los recargos devengados se actualizarán conforme el Código Fiscal vigente.”
