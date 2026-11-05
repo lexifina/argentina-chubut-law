@@ -1,12 +1,13 @@
 # How this repository was made (Chubut)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Honorable Legislatura de la Provincia del Chubut (legislaturadelchubut.gob.ar) | <https://legislaturadelchubut.gob.ar/institucional/normativas-vigentes/> | 2026-10-30 | Official legal texts of the province, published by its government for public consultation. Argentina's copyright law (Ley 11.723) has no express exclusion for them; laws are public acts of government, binding on everyone once officially published (Código Civil y Comercial, art. 5). The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Honorable Legislatura de la Provincia del Chubut — Digesto Jurídico | <https://digesto.legislaturadelchubut.gob.ar/api/public/rama/1/documento/211> | 2026-11-05 | Official provincial legal text, reproduced with attribution. No additional reuse terms for this text are stated by the publisher. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -412,20 +413,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-i-573` | Ley I-573: Sustitúyense los Artículos 3º, 4º, 5º, 7º y 9º de la Ley I Nº 211.Adhirie a la Ley Nacional N° 26914. | 1 | 2016-01-02 to 2016-01-02 |
 | `ley-xxv-43` | Ley XXV-43: Apruebase Convenios 2010 entre el Instituto Provincial de la Vivienda y la Comuna Rural de Cerro centinela TOMO:2 FOLIO: 254 | 1 | 2015-04-09 to 2015-04-09 |
 | `ley-xxiii-33` | Ley XXIII-33: Adhesión de la Provincia del Chubut al Código Etico Mundial para el Turismo | 1 | 2013-12-21 to 2013-12-21 |
+| `ley-i-211` | Ley I-211: Control de la Diabetes. Interés provincial. Adhesión a la Ley 23753. | 1 | 2016-01-02 to 2016-01-02 |
 
-The build made 398 commits:
+The build made 399 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 398 | first version of an act |
+| 399 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 398 laws in the record.
-- 801 tags.
+- 399 laws in the record.
+- 802 tags.
 
 ## Dates
 
@@ -437,21 +439,24 @@ When a law gives no date of its own, the default rule applies: Código Civil y C
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c34bc0214e71aceced83129086f6397136026872afcc154edaf16e78f40e1b64` (3380047 bytes).
+- Corpus: sha256 `4a34fa0ef1ce180c062b1c8810df8d6ef2b3db0a0c3227f397446e57d33dce9e` (3388669 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-398 versions of 398 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 399 history commits and 796 tags (history tip `02318a850777e80284498f9525771927e899e061`).
 
 ## Decisions made by hand
 
 - The constitution is the consolidated text the Legislatura publishes (the 1994 Constitution with the 2025 enmienda of arts. 247 and 248 incorporated, each marked by the source's note). The source gives no dated earlier wording in this file, so it is shown as its current text only (the oldest version available), dated by the edition's upload, 29 April 2026. Its own Disposición final primera puts the 1994 text in force on 15 October 1994 ("Esta Constitución rige a partir del día 15 de octubre de 1994").
 - Units: the heading (encabezado: the title, the Preámbulo and the headings before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (the marginal headings of the next article, the source's "(Artículo modificado por enmienda ...)" notes and, after the last article, the Disposiciones complementarias, transitorias and finales and the signatures). Nothing is dropped. One paragraph per line, spacing normalised; a word broken at a line end by a soft hyphen is joined.
 - The PDF is read in its content order (PyMuPDF), and its letters and digits are checked against poppler's pdftotext -raw, which reads the same order.
+- Ley I-211 is a current-text act with first_law null; its source identifies Ley I-573 as the latest incorporated amendment. The version uses its publication date plus the existing provincial default commencement rule, rather than the retrieval day.
+- The source’s original numbered Ley 4588 record supplies dates but no legal text; no earlier version has been reconstructed.
+- The complete official HTML text, including both textual tables, is retained in source order. No OCR or model-written law text is used.
 
 ## What AI did and did not do
 
@@ -463,3 +468,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- A GPT model wrote parsing and validation code and selected the source records; it wrote no legal text.

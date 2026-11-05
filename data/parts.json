@@ -447,6 +447,12 @@
     "ley-xxv-43"
    ],
    "sha256": "1ab9648e0d5984cc38eb26af1f9afca2193ac6093825f6e24418e21970a12d44"
+  },
+  "90-q149-diabetes-current.json": {
+   "acts": [
+    "ley-i-211"
+   ],
+   "sha256": "47bcfc3ed2a0f25b5fc85d1dd9018b0f60a5810565ac27015a1fc06848da3b9d"
   }
  },
  "schema": 1

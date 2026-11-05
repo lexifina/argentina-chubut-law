@@ -5572,6 +5572,20 @@
      "sha256": "ccbdb284e3b0633cd2f4a13574948477a16b25e7b9626127b85e866a570175f5"
     }
    ]
+  },
+  {
+   "slug": "ley-i-211",
+   "short": "Ley I-211",
+   "title": "Ley I-211: Control de la Diabetes. Interés provincial. Adhesión a la Ley 23753.",
+   "url": "https://digesto.legislaturadelchubut.gob.ar/api/public/rama/1/documento/211",
+   "versions": [
+    {
+     "from": "2016-01-02",
+     "units": 14,
+     "source_url": "https://digesto.legislaturadelchubut.gob.ar/api/public/rama/1/documento/211",
+     "sha256": "1dba0e785938f463f3bfcdcab9ea9d9ed05201d3e4489042e993c56a5293fe5f"
+    }
+   ]
   }
  ]
 }
